@@ -1,4 +1,9 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFC9B9&height=300&section=header&text=Somin%20Yun&fontSize=90)
+### SNS
+<a href="https://instagram.com/soyaa_min_?igshid=MjEwN2IyYWYwYw==" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+### Tech Stack
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=black"> <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black">
 
 <!--
 **sominyun/sominyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
