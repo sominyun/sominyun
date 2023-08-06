@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFC9B9&height=300&section=header&text=Somin%20Yun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=300&section=header&text=Somin%20Yun&fontSize=90&fontColor=ffffff)
 ### SNS
 <a href="https://instagram.com/soyaa_min_?igshid=MjEwN2IyYWYwYw==" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 ### Tech Stack
