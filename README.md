@@ -1,5 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=300&section=header&text=Somin%20Yun&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2559ed&height=300&section=header&text=Somin%20Yun&fontSize=90&fontColor=9df8f1)
+
+[![sominyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sominyun&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### SNS
 <a href="https://instagram.com/soyaa_min_?igshid=MjEwN2IyYWYwYw==" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 ### Tech Stack
