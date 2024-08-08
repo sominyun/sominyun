@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<br></br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=2559ed&height=300&section=header&text=Somin%20Yun&fontSize=90&fontColor=9df8f1) -->
 
