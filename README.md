@@ -4,17 +4,12 @@
 - `2024.02 - 2024.05` [KUSITMS] 한국대학생IT경영학회 29기 (Backend)
 - `2024.08 - 2024.12` [KUSITMS] 한국대학생IT경영학회 30기 & 교육기획팀 (Backend)
 
-## 🥇Awards
-- `2024.03` 한국대학생IT경영학회 KUSITMS 29th 기업프로젝트(Soullive) 우수상 - 셀럽/인플루언서 검증 모바일 앱 UI/UX 개선  [🔗repository](https://github.com/soulive-A/Backend)
-- `2024.05` ITTAxMEDILUX 헤커톤 우수상 - 자녀의 식단 영양 성분 분석 및 관리 서비스
-- `2024.03~05` 한국대학생IT경영학회 KUSITMS 29th 밋업프로젝트 우수상 - 핵심만 콕콕, AI 기반 초등학교 알림장 서비스 [🔗repository](https://github.com/Kusitms-29th-ASAP/Backend)
-- `2024.08` **🥇대상 부총리겸 교육부 장관상🥇 제6회 교육 공공데이터 분석활용대회 서비스/상품 개발 부문 - AI 기반 초등학교 알림장 서비스** [🔗repository](https://github.com/Kusitms-29th-ASAP/Backend)
+## Project
+- `2024.03` 한국대학생IT경영학회 KUSITMS 29th 기업프로젝트 - 셀럽/인플루언서 검증 모바일 앱 UI/UX 개선  [🔗repository](https://github.com/soulive-A/Backend)
+- `2024.03~08` **🥇대상 부총리겸 교육부 장관상🥇 제6회 교육 공공데이터 분석활용대회 서비스/상품 개발 부문 - AI 기반 초등학교 알림장 서비스** [🔗repository](https://github.com/Kusitms-29th-ASAP/Backend)
 - `2024.09` 한국대학생IT경영학회 KUSITMS 30th 기업프로젝트 - sk 기술 블로그 Devocean 개선 과제 [🔗repository](https://github.com/KUSITMS-DEVOCEAN/Readme)
-- `2024.10~12` 국대학생IT경영학회 KUSITMS 30th 밋업프로젝트 - 모일 때 맵핀, MOPING [🔗repository](https://github.com/Team-pingping/pingping-BE)
-<!-- 
-## 📖 Study
-- 대규모트래픽을 고려한 실무의 게시판 [🔗repository](https://github.com/sominyun/board)
- -->
+- `2024.10~12` 한국대학생IT경영학회 KUSITMS 30th 밋업프로젝트 - 모일 때 맵핀, MOPING [🔗repository](https://github.com/Team-pingping/pingping-BE)
+- `2024.07~now` 티켓팅알림 서비스 Newket(뉴켓) [🔗download](https://linktr.ee/newket?fbclid=PAZXh0bgNhZW0CMTEAAaavlb_wyS9D-KJ5X0PTYW5BDrGWA935KFXUVSLwY0zM5kwb5TPDQiPWdyY_aem_1KF-jg4ZsJmcQNvlpGV1kA)
   
 <!-- 
 ## 🛠 Tech Stack
