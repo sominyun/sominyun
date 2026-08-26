@@ -10,6 +10,7 @@
 - `2024.09` 한국대학생IT경영학회 KUSITMS 30th 기업프로젝트 - sk 기술 블로그 Devocean 개선 과제 [🔗repository](https://github.com/KUSITMS-DEVOCEAN/Readme)
 - `2024.10~12` 한국대학생IT경영학회 KUSITMS 30th 밋업프로젝트 - 모일 때 맵핀, MOPING [🔗repository](https://github.com/Team-pingping/pingping-BE)
 - `2024.07~now` 티켓팅알림 서비스 Newket(뉴켓) [🔗download](https://linktr.ee/newket?fbclid=PAZXh0bgNhZW0CMTEAAaavlb_wyS9D-KJ5X0PTYW5BDrGWA935KFXUVSLwY0zM5kwb5TPDQiPWdyY_aem_1KF-jg4ZsJmcQNvlpGV1kA)
+- `2025.03~12` 졸업프로젝트, 카드사의 혜택을 모아서 알려주는 Wisecard [🔗repository](https://github.com/CardMates/WiseCard_Scheduler) [🔗repository](https://github.com/CardMates/WiseCard_Back)
   
 <!-- 
 ## 🛠 Tech Stack
